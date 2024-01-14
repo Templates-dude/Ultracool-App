@@ -1,7 +1,5 @@
 {
-  "name": "uv-app",
-  "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "name": "coolviolet",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -10,9 +8,6 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": [
-    "proxy"
-  ],
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
